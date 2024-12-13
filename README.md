@@ -1,6 +1,20 @@
 # dlruniverse.com
+👋 Welcome to **DLR's Universe: The game of my life** ⌛
 
-👋 Welcome to my galaxy!!! Joking apart, this website tries to be a demonstration of I can do. I said 'tries', because I do not know what will come out of here... 😔 
+- [dlruniverse.com](#dlruniversecom)
+  - [⛏️ Product](#️-product)
+    - [🕹️ Type](#️-type)
+    - [🧭 Platform](#-platform)
+    - [📜 History](#-history)
+    - [📂 Structure](#-structure)
+      - [Initial screen](#initial-screen)
+    - [🏎️ My own game engine](#️-my-own-game-engine)
+  - [🛠️ Technologies](#️-technologies)
+  - [🌐 Languages](#-languages)
+    - [Videogame](#videogame)
+    - [Documentation](#documentation)
+  - [👨‍⚖️ Licenses](#️-licenses)
+
 
 ## ⛏️ Product
 ### 🕹️ Type
@@ -9,21 +23,26 @@
 ### 🧭 Platform
 - Web
 
-## 📖 History
-### Introduction
-The end of the life in the earth such as I know it was about to arrive, a huge mass of people was about to catch me, but... I got it.
-### Earth
-I am a normal boy who goes to the high-school and in his free time plays videogames, but one day something inside of me changed forever. That day, I looked in the mirror and I did not like anything I saw. After that moment, when I listened a song I imagined myself in a mansion with a rolls-royce, a mercedes, a lamborghini... I imagined myself with t-shirts, hoodies, jerseys and sneakers that cost over one thousands dollars, I imagined myself being millionaire, I created in my mind my own film. Also, I wanted to be the most strong boy of the world and the reality was that I was fat. Well, if something explotes in your face, only you can do two things, give up or fight to achieve your dreams and I chose fight.
+### 📜 History
 
-The inconvenience is the system. Everybody thinks that I am crazy to choose the option that I chose. For this reason, I am in danger and I have to run away of this planet. In the earth there are enough technology like to travel to any solar system planet, but appear here another problem, there are a spacial police and I would continue in danger. Therefore, I need to create some new planets, those are not registered by the spacial police and I would be save.
-#### Level 1
-Mini-game that consists in run forward and recollect a number of one object (I have not thought it yet). When you have the number of objects that is required, you go to next level.
-#### Level 2
-Mini-game like 'Tetris'.
-#### Level 3
-Mini-game that consists in run away of the earth in a spaceship.
+### 📂 Structure
+#### Initial screen
 
-## 👨‍⚖️ License
+### 🏎️ My own game engine
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- Vanilla JS
+
+## 🌐 Languages
+### Videogame
+- Spanish
+
+### Documentation
+- English
+
+## 👨‍⚖️ Licenses
 &copy; 2024 David Llamas Román. Licensed under the [GNU General Public License version 3 (GPL-3.0) only](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > [!WARNING]
