@@ -1,56 +1,33 @@
+<!--
+ * This file is part of dlruniverse.com.
+ *
+ * dlruniverse.com is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, version 3 of the License only.
+ *
+ * dlruniverse.com is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with dlruniverse.com. If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
+ *
+ * Copyright (C) 2025 David Llamas Román
+-->
+
 # dlruniverse.com
-👋 Welcome to **DLR's Universe: The game of my life** ⌛
-
-- [dlruniverse.com](#dlruniversecom)
-  - [⛏️ Product](#️-product)
-    - [🕹️ Type](#️-type)
-    - [🧭 Platform](#-platform)
-    - [📜 History](#-history)
-    - [📂 Structure](#-structure)
-      - [Initial screen](#initial-screen)
-    - [🏎️ My own game engine](#️-my-own-game-engine)
-  - [🛠️ Technologies](#️-technologies)
-  - [🌐 Languages](#-languages)
-    - [Videogame](#videogame)
-    - [Documentation](#documentation)
-  - [👨‍⚖️ Licenses](#️-licenses)
-
-
-## ⛏️ Product
-### 🕹️ Type
-- Videogame
-
-### 🧭 Platform
-- Web
-
-### 📜 History
-
-### 📂 Structure
-#### Initial screen
-
-### 🏎️ My own game engine
-
-## 🛠️ Technologies
-- HTML
-- CSS
-- Vanilla JS
-
-## 🌐 Languages
-### Videogame
-- Spanish
-
-### Documentation
-- English
+Coming soon...
 
 ## 👨‍⚖️ Licenses
-&copy; 2024 David Llamas Román. Licensed under the [GNU General Public License version 3 (GPL-3.0) only](https://www.gnu.org/licenses/gpl-3.0.en.html)
+&copy; 2025 David Llamas Román. Licensed under the [GNU General Public License version 3 (GPL-3.0) only](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > [!WARNING]
 > This file is part of dlruniverse.com.
 >
 > dlruniverse.com is free software: you can redistribute it and/or modify
 > it under the terms of the GNU General Public License as published by
-> the Free Software Foundation, either version 3 of the License.
+> the Free Software Foundation, version 3 of the License only.
 >
 > dlruniverse.com is distributed in the hope that it will be useful,
 > but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -60,13 +37,13 @@
 > You should have received a copy of the GNU General Public License
 > along with dlruniverse.com. If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
 >
-> Copyright (C) 2024 David Llamas Román
+> Copyright (C) 2025 David Llamas Román
 
-This is the warning that you can find in all files of dlruniverse.com project that contains code. This warning are not in JSON files, because this type of files do not support comments.
+This warning appears in all files of the dlruniverse.com project that contain code. JSON files are exempt from this warning because they do not support comments.
 
-In the second paragraph (line 7-10 of the WARNING) we refer to point 15 of the [GPL-3.0 license (GPL-3.0-only)](LICENSE):
+In the second paragraph (lines 7–10 of the WARNING), we explicitly state that the project is licensed under the terms of **version 3 of the GNU General Public License only**, as defined in point 15 of the [GPL-3.0-only license](./LICENSE):
 ```
-1.  Disclaimer of Warranty.
+15. Disclaimer of Warranty.
 
   THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
@@ -77,3 +54,5 @@ PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 ```
+
+<p align=right><a href="#dlruniversecom"><strong>Go up ⬆</strong></a></p>
